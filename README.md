@@ -16,9 +16,9 @@ Although it took some time to test and apply the knowledge I acquired in the cou
 
 
 #### Design for desktop:
-[Huddle_Project_Desktop](./src/design/active-states.jpg)
+![Huddle_Project_Desktop](./src/design/active-states.jpg)
 
 #### Design for mobile:
-[Huddle_Project_Mobile](./src/design/mobile-design.jpg)
+![Huddle_Project_Mobile](./src/design/mobile-design.jpg)
 
 
